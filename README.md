@@ -12,7 +12,6 @@ The hotel booking website aims to provide users with a user-friendly interface f
 - View hotel details and amenities
 - User registration and authentication
 - Book rooms and manage reservations
-- [Add any additional features]
 
 ## Front-End Technologies
 
@@ -24,7 +23,7 @@ The hotel booking website aims to provide users with a user-friendly interface f
 
 To run the front-end locally, follow these steps:
 
-1. Clone this repository: `git clone [repository-url]`
+1. Clone this repository: `git clone https://github.com/Annanas1k/hotel-manager.git`
 2. Open `index.html` in your preferred web browser.
 
 ## Contribution Guidelines
@@ -44,8 +43,5 @@ If you'd like to contribute to the project, please follow these guidelines:
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
 
----
 
-Feel free to customize the sections based on your project's specifics. Add more details about the project structure, dependencies, or any other relevant information. Also, update the placeholders like `[Colleague's Name]` and `[repository-url]` with the actual information.
